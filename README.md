@@ -4,6 +4,7 @@ Rock Paper Scissors Lizard Spock
 Practice with conditionals and logic 
 
 =================================
+
  Rock Paper Scissors Lizard Spock!
          It's very simple
          
@@ -18,4 +19,5 @@ Practice with conditionals and logic
         Spock vaporizes rock.
             And as always
         Rock crushes scissors
+        
   =================================
