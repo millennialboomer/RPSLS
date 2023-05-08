@@ -6,7 +6,7 @@ Practice with conditionals and logic
 
 
  Rock Paper Scissors Lizard Spock!
- =================================
+ 
          
          It's very simple
          
@@ -22,4 +22,4 @@ Practice with conditionals and logic
             And as always
         Rock crushes scissors
         
-  =================================
+
