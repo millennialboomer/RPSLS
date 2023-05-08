@@ -1,11 +1,11 @@
 # RPSLS
+Practice with conditionals and logic
 Rock Paper Scissors Lizard Spock
 
-Practice with conditionals and logic 
+ 
 
 
 
- Rock Paper Scissors Lizard Spock!
  
          
          It's very simple
