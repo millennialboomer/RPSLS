@@ -6,6 +6,7 @@ Practice with conditionals and logic
 =================================
 
  Rock Paper Scissors Lizard Spock!
+         
          It's very simple
          
         Scissors cuts paper.
